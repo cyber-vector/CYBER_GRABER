@@ -63,7 +63,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/Vector-Dev11/C9_Pishing.git
+git clone https://github.com/cyber-vector/C9_Pishing.git
 cd C9_Pishing
 
 # Install dependencies
