@@ -1,8 +1,8 @@
 <div align="center">
 
-![C9_VECTOR Banner](images/554.png)
+![CYBER_GRABER Banner](images/554.png)
 
-# 🛡️ C9_VECTOR Phishing Framework
+# 🛡️ CYBER_GRABER Phishing Framework
 
 ### Advanced Phishing Simulation Tool for Security Testing
 
@@ -19,7 +19,7 @@
 
 ## 📌 Overview
 
-**C9_VECTOR Phishing Framework** is a powerful, educational phishing simulation tool designed for security researchers, penetration testers, and cybersecurity professionals. It provides **10 realistic login page templates** for popular platforms, allowing security teams to conduct controlled phishing awareness tests and identify vulnerabilities in organizational security postures.
+**CYBER_GRABER Phishing Framework** is a powerful, educational phishing simulation tool designed for security researchers, penetration testers, and cybersecurity professionals. It provides **10 realistic login page templates** for popular platforms, allowing security teams to conduct controlled phishing awareness tests and identify vulnerabilities in organizational security postures.
 
 > **⚠️ IMPORTANT:** This tool is strictly for **EDUCATIONAL PURPOSES** and **AUTHORIZED TESTING ONLY**. Unauthorized use is illegal and violates multiple cybercrime laws.
 
@@ -51,7 +51,7 @@
 - ✅ **JSON Log Endpoint** - Easy integration with other tools and SIEM systems
 - ✅ **One-Click Log Clearing** - Quick cleanup after testing sessions
 - ✅ **Responsive Design** - Works seamlessly on desktop, tablet, and mobile devices
-- ✅ **C9_VECTOR Branding** - Professional watermark on every page
+- ✅ **CYBER_GRABER Branding** - Professional watermark on every page
 - ✅ **Lightning Fast** - Built with Flask for optimal performance
 - ✅ **Simple Installation** - One-command setup with minimal dependencies
 
