@@ -63,11 +63,11 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/cyber-vector/C9_Pishing.git
-cd C9_Pishing
+git clone https://github.com/cyber-vector/CYBER_GRABER.git
+cd CYBER_GRABER
 
 # Install dependencies
 pip install flask
 
 # Run the application
-python c9.py
+python attack.py
